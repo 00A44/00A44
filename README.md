@@ -26,3 +26,6 @@ Monero
 </h3>
 ![monero qr](https://github.com/00A22/00A22/assets/167036085/ec2c4f4c-9244-4c2d-abf4-00e56481cc70)
 
+![monero qr](https://github.com/00A22/00A22/assets/167036085/002e2bd3-26d7-4c57-9cef-4cb0b135b026)
+
+
