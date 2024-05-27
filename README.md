@@ -1,9 +1,14 @@
 <h1 align="center">Hi, I'm 00A22</h1>
-<h3 align="center">I am here for the advancement of the Latin language and the Linux operating system. I currenty work on calilgraphy, painting,</h3>
+<h3 align="center">I am here for the advancement of the Latin language and the Linux operating system. I currenty work on </h3>
+<bl>
+  Latin
+  Gothic/Gaelic calligraphy
+  Painting
+  Linux/Agile Scrum/Kanban
+</bl>
 
-- 🌱 I’m currently learning **Please donate**
+- 🌱 **Please donate**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
