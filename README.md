@@ -7,7 +7,9 @@
   <li>Linux/Agile Scrum/Kanban
 </ul>
 
+<h3>
 - 🌱 **Please donate**
+</h3>
 
 <p align="left">
 </p>
