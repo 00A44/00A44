@@ -24,3 +24,5 @@ Monero
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   47QXojNwBfx49E32u1t28DSNZLpwhJwzgDHyDvYGLzcDTR27Uj6pkeBBRdAiGme5SiZ6wVFUv8geR8cBizQcsYKu8uxzd58
 </h3>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
