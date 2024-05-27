@@ -17,13 +17,20 @@
 
 <h3>
 - 🌱 **Please donate**🪴
-
-Bitcoin
-
-Monero
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  47QXojNwBfx49E32u1t28DSNZLpwhJwzgDHyDvYGLzcDTR27Uj6pkeBBRdAiGme5SiZ6wVFUv8geR8cBizQcsYKu8uxzd58
 </h3>
 
+<h3 align="center">
+Monero  
+</h3>
+![Monero QR](https://github.com/00A22/00A22/assets/167036085/0267dfec-ea01-4a86-ac93-77869377fdbb)
 
-![monero qr](https://github.com/00A22/00A22/assets/167036085/0e7b7962-0d9d-4e58-be93-1128d1666e47)
+47QXojNwBfx49E32u1t28DSNZLpwhJwzgDHyDvYGLzcDTR27Uj6pkeBBRdAiGme5SiZ6wVFUv8geR8cBizQcsYKu8uxzd58
+
+<hr>
+<hr>
+
+<h3>
+  
+Bitcoin
+
+</h3>
