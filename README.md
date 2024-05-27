@@ -8,7 +8,7 @@
 </ul>
 
 <h3>
-- 🌱 **Please donate**
+- 🌱 **Please donate**🪴
 </h3>
 
 <p align="left">
