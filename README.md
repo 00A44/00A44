@@ -21,10 +21,10 @@
 
 <h3 align="center">
 Monero  
+
+  ![monero qr](https://github.com/00A22/00A22/assets/167036085/90c0e4d3-fc43-4428-a7fc-033569f88b04)
+
 </h3>
-![Monero QR](https://github.com/00A22/00A22/assets/167036085/0267dfec-ea01-4a86-ac93-77869377fdbb)
-![Monero QR](https://github.com/00A22/00A22/assets/167036085/5624f09a-bffe-417c-b36c-04532eec4716)
-![monero qr](https://github.com/00A22/00A22/assets/167036085/4888b48b-f626-45c6-b86c-ef8d30dd5d17)
 
 47QXojNwBfx49E32u1t28DSNZLpwhJwzgDHyDvYGLzcDTR27Uj6pkeBBRdAiGme5SiZ6wVFUv8geR8cBizQcsYKu8uxzd58
 
