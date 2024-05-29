@@ -46,6 +46,5 @@ Monero
 <h3 align="center">
 Bitcoin
 
-  
-bc1qndfh87cnzrcngtd5uly2wt2rsw92cnctuv7tg6
 </h3>
+bc1qndfh87cnzrcngtd5uly2wt2rsw92cnctuv7tg6
