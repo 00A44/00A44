@@ -37,8 +37,9 @@ Monero
 
 
 </h3>
-
+<p align="center">
 47QXojNwBfx49E32u1t28DSNZLpwhJwzgDHyDvYGLzcDTR27Uj6pkeBBRdAiGme5SiZ6wVFUv8geR8cBizQcsYKu8uxzd58
+</p>
 
 <hr>
 <hr>
@@ -46,5 +47,9 @@ Monero
 <h3 align="center">
 Bitcoin
 
+
+![Bitcoin QR](https://github.com/00A22/00A22/assets/167036085/c2a1057e-5178-4016-a809-b44596a36216)
 </h3>
+<p align="center">
 bc1qndfh87cnzrcngtd5uly2wt2rsw92cnctuv7tg6
+</p>
