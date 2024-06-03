@@ -19,7 +19,7 @@
   <li>Illuminated letters on Web Extension
 </ul> 
 
-I plan on making a private IRC to interact and collaborate with others, but I need a few donations. Discord and Telegram are horrendous platforms. I need a few 100 dollars in crypto before I do so.
+I plan on making a private IRC to interact and participate with others, but I need a few donations. Discord and Telegram are horrendous platforms. I need a few 100 dollars in crypto before I do so.
 
 </p>
 
