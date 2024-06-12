@@ -16,6 +16,7 @@
   <li>Gothic OS/Desktop Environment
   <li>IRC Channel
   <li>Website
+  <li>Gitea Server
   <li>Illuminated letters on Web Extension
 </ul> 
 
