@@ -4,7 +4,7 @@
 <p align="left">
 <ul>
   <li>Latin
-  <li>Gothic/Gaelic calligraphy
+  <li>Gothic/Gaelic calligraphy fonts %80
   <li>Painting
   <li>Linux/Agile Scrum/Kanban
 </ul>
@@ -15,7 +15,7 @@
   <li>Celtic OS/Desktop Environment
   <li>Gothic OS/Desktop Environment
   <li>IRC Channel
-  <li>Website
+  <li>Website Finished, but needs to be uploaded
   <li>Gitea Server
   <li>Illuminated letters on Web Extension
 </ul> 
