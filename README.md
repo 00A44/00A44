@@ -17,7 +17,7 @@
   <li>IRC Channel
   <li>Website Finished, but needs to be uploaded
   <li>Gitea Server
-  <li>Illuminated letters on Web Extension
+  <li>Illuminated letters on Web Extension. Optional less stylized drop cap capital letters.
 </ul> 
 
 I plan on making a private IRC to interact and participate with others, but I need a few donations. Discord and Telegram are horrendous platforms. I need a few 100 dollars in crypto before I do so.
