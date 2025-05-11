@@ -4,7 +4,7 @@
 <p align="left">
 <ul>
   <li>Latin
-  <li>Gothic/Gaelic calligraphy fonts %80
+  <li>Gothic/Gaelic calligraphy fonts
   <li>Painting
   <li>Linux/Agile Scrum/Kanban
 </ul>
